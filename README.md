@@ -1,7 +1,7 @@
 # BR_Gentilics
 Plain lists of Brazilian Gentilics
 
-This files offer lists of Brazilian Gentilics and world gentilics in Portuguese.
+The files list Brazilian Gentilics and world gentilics in Portuguese.
 
 Gentilics are adjectives closely related to nouns that refer to location, as "Brazilian", "American" and "Syrian".
 The lists are separated by states of Brazil and came from Wikipedia-PT https://pt.wikipedia.org/wiki/Lista_de_gent%C3%ADlicos_do_Brasil.
